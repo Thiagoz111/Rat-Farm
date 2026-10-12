@@ -1,0 +1,140 @@
+glow       rbxassetid://86162492113707
+sparkle    rbxassetid://102930543197766
+star       rbxassetid://125634573971336
+shard      rbxassetid://76697586936133
+ring       rbxassetid://115313473514451
+rays       rbxassetid://96168945913363
+wisp       rbxassetid://84576706347951
+flame_fb   rbxassetid://134062079812545   (Grid4x4 OneShot)
+smoke_fb   rbxassetid://125526413571358   (Grid4x4 OneShot)
+glitch_fb  rbxassetid://93333766247493    (Grid4x4 Random, colores horneados)
+static_fb  rbxassetid://88442720146296    (Grid4x4 Random)
+bolt_fb    rbxassetid://108841504342849   (Grid2x2 Random)
+crack      rbxassetid://137734045878845
+vortex     rbxassetid://99777115739204
+ui_cheese  rbxassetid://86008910049164    (GUI, pixel 16x16 -> ResampleMode Pixelated)
+ui_sparkle rbxassetid://121028306007493   (GUI, pixel 16x16 -> ResampleMode Pixelated)
+ui_cart    rbxassetid://112552164239310   (GUI SHOP, pixel 24x24 -> Pixelated)
+ui_book    rbxassetid://80120824926475    (GUI INDEX, pixel 24x24 -> Pixelated)
+ui_smile   rbxassetid://118050287244523   (GUI bonus amigos, pixel 24x24 -> Pixelated)
+ui_backpack rbxassetid://125733627246188  (GUI INVENTORY, pixel 24x24)
+ui_gift     rbxassetid://103561505918402  (GUI REWARDS, pixel 24x24)
+ui_upgrade  rbxassetid://128937370448473  (GUI UPGRADES, pixel 24x24)
+ui_moneybag rbxassetid://131839422224787  (GUI SELL, pixel 24x24)
+ui_house    rbxassetid://74136953455861   (GUI HOME, pixel 24x24)
+ui_stall    rbxassetid://113825093988258  (GUI PLAZA, pixel 24x24)
+# 2026-10-09 re-subidos a x16 (384 px, bordes limpios en mipmaps); reemplazan a los de arriba:
+ui_cart     rbxassetid://121949143204881
+ui_book     rbxassetid://88770730303590
+ui_smile    rbxassetid://88767585019219
+ui_backpack rbxassetid://135673863773822
+ui_gift     rbxassetid://95050838494546
+ui_upgrade  rbxassetid://99701940929608
+ui_moneybag rbxassetid://94364305710721
+ui_house    rbxassetid://100152271984266
+ui_stall    rbxassetid://136109142071576
+# 2026-10-09 iconos "3D" 32x32 (make_ui_icons3d.py, x16 = 512 px, Art = 32); reemplazan a los planos en el HUD:
+ui3d_cart     rbxassetid://106578533101786   (SHOP: canasta roja con queso)
+ui3d_book     rbxassetid://101734524336533   (INDEX: libro con medallon)
+ui3d_upgrade  rbxassetid://132082996099561   (UPGRADES: flecha verde en base dorada)
+ui3d_backpack rbxassetid://97801606577503    (ITEMS/Inventory: mochila)
+ui3d_gift     rbxassetid://138882037568955   (REWARDS: regalo violeta)
+ui3d_moneybag rbxassetid://133106263068822   (SELL)
+ui3d_house    rbxassetid://90976595294268    (HOME)
+ui3d_stall    rbxassetid://115301937637128   (PLAZA)
+ui3d_upgrade  rbxassetid://90169849603187    (UPGRADES v2: verde vivo + bisel; reemplaza 132082996099561)
+# 2026-10-10 pixel-art 32x32 (make_ui_icons4.py, x16 = 512 px, Art = 32): rangos, traits, items, upgrades, torre
+px4_roll_token      rbxassetid://130296657436555
+px4_trait_token     rbxassetid://124038415302979
+px4_cash_potion     rbxassetid://87897930138948
+px4_luck_potion     rbxassetid://138558135023473
+px4_rank_F          rbxassetid://98473130897338
+px4_rank_E          rbxassetid://99276721395793
+px4_rank_D          rbxassetid://82733779269589
+px4_rank_C          rbxassetid://75128264921509
+px4_rank_B          rbxassetid://130777129537175
+px4_rank_A          rbxassetid://87578980455788
+px4_rank_S          rbxassetid://109744966301617
+px4_rank_SS         rbxassetid://73381245825757
+px4_rank_SSS        rbxassetid://78972641787073
+px4_rank_X          rbxassetid://96121918100428
+px4_rank_EX         rbxassetid://78817701395692
+px4_rank_OMEGA      rbxassetid://85046297493525
+px4_trait_fortune1  rbxassetid://89243536211808
+px4_trait_fortune2  rbxassetid://108490844542839
+px4_trait_fortune3  rbxassetid://111789609561914
+px4_trait_health    rbxassetid://75763529912650
+px4_trait_assassin  rbxassetid://71971863841001
+px4_trait_king      rbxassetid://131721387069980
+px4_trait_phoenix   rbxassetid://93927962983640
+px4_trait_mega      rbxassetid://100731917379109
+px4_trait_angelic   rbxassetid://79280967486166
+px4_trait_zzz       rbxassetid://95028423911770
+px4_up_cash         rbxassetid://130981834761112
+px4_up_luck         rbxassetid://113445978166582
+px4_up_open         rbxassetid://126431349073005
+px4_up_throw        rbxassetid://100274093106125
+px4_up_train        rbxassetid://98998635533452
+px4_up_speed        rbxassetid://121982004483413
+px4_trophy          rbxassetid://119189112849923
+px4_crystal_ball    rbxassetid://118738334517513
+px4_tower           rbxassetid://123351545070530
+px4_gear            rbxassetid://95883658304488
+px4_lock            rbxassetid://80399279112290
+px4_sword           rbxassetid://127925245892787
+px4_heart           rbxassetid://79718776859601
+px4_check           rbxassetid://109393271577115
+# 2026-10-10 texturas de particulas de traits (TraitFX)
+pfx_coin  rbxassetid://127375418823216   (moneda pixel 16x16 a color)
+pfx_z     rbxassetid://75332282646592    (Z blanca con borde, el Color la tine)
+# 2026-10-10 trebol (make_clover.py) -> gamepass 2x Luck
+px5_clover          rbxassetid://94423328652156
+# 2026-10-10 iconos con BORDE NEGRO (make_outline.py -> outlined/*.png, mismo nombre + _bk); reemplazan a los de arriba en todo el juego
+px5_rays (rayos pixel que giran)  rbxassetid://84802122710401   (reemplaza rays 72952255947588 en la GUI)
+px5_clover_bk       rbxassetid://72453694213466
+ui3d_cart_bk        rbxassetid://120584313447142
+ui3d_book_bk        rbxassetid://72426969544859
+ui3d_gift_bk        rbxassetid://110395103620169
+ui3d_upgrade_bk     rbxassetid://74512168051546
+ui3d_backpack_bk    rbxassetid://133563810312856
+ui3d_moneybag_bk    rbxassetid://130417896199950
+ui3d_house_bk       rbxassetid://135839648203464
+ui3d_stall_bk       rbxassetid://123409018381809
+ui_cheese_bk        rbxassetid://125818545280237
+px4_*_bk: cash_potion 93136626028585, check 113898424372281, crystal_ball 131171098419981, gear 121052769385304, heart 133385070065278, lock 134707419466317, luck_potion 88203495324565, rank_A 93706376453964, rank_B 103170011094375, rank_C 112351741336092, rank_D 129715820981813, rank_EX 102351223065677, rank_E 109902435959993, rank_F 77521659108892, rank_OMEGA 116659911233057, rank_SSS 108617726764451, rank_SS 119346415830717, rank_S 100434006032080, rank_X 103928555476515, roll_token 118847610254621, sword 124322241783699, tower 84484685894939, trait_angelic 90237877239804, trait_assassin 114062303612174, trait_fortune1 74693575223618, trait_fortune2 77868976230750, trait_fortune3 103647780000342, trait_health 98463595728150, trait_king 93316585083725, trait_mega 87313465940796, trait_phoenix 114320743934652, trait_token 130540348959169, trait_zzz 111164957069405, trophy 137024760991481, up_cash 119124477086896, up_luck 134338405141268, up_open 130819039266145, up_speed 119757392735878, up_throw 80811665543949, up_train 71304937687507
+px5_money (moneda $ 16x16 con borde negro, make_money.py)  rbxassetid://128498667919152
+px5_bill (billete verde 16x16 con borde negro, make_money.py; REEMPLAZA a la moneda 128498667919152)  rbxassetid://71820010550500
+px6_bill (fajo de billetes 24x24 con faja dorada y $, borde negro, make_money.py v2; Art = 24; REEMPLAZA al billete 71820010550500)  rbxassetid://131921679750686
+px7_bill (billete 24x24 en diagonal 2:1 ondulado, medallon con $, borde negro; make_money.py v3; Art = 24; ELEGIDO por el usuario, REEMPLAZA al fajo 131921679750686)  rbxassetid://106215878632540
+# 2026-10-11 iconos de GAMEPASSES / PRODUCTOS (make_pass_icons.py -> outlined/pass_*.png, borde negro, Art = 32; robux Art = 16)
+pass_vip            rbxassetid://112666703210204   (corona dorada 3 puntas + joyas + diamante)
+pass_luck4          rbxassetid://95791510652754    (trebol morado con borde dorado, x4 Luck)
+pass_cash2          rbxassetid://113934356840705   (dos fajos con faja dorada, x2 Cash)
+pass_jackpot_x1     rbxassetid://137577348167177   (ficha con gema arcoiris + x1)
+pass_jackpot_x5     rbxassetid://129370146919931
+pass_jackpot_x10    rbxassetid://76771745814754
+pass_trait_x10      rbxassetid://133665647878097   (trait token + x10)
+pass_rank_x10       rbxassetid://128770965720273   (roll/rank token + x10)
+pass_robux          rbxassetid://114257515216754   (Robux 16x16 blanco borde negro, tenir con ImageColor3)
+pass_jackpot        rbxassetid://103739218033534   (ficha gema arcoiris SIN cartelito: item Jackpot Roll)
+px6_rays_soft       rbxassetid://117958939000172   (rayos con opacidad que baja suave hacia el borde y costados suaves; make_rays.py; cartel de ofertas)
+# 2026-10-11 (tarde) iconos de gamepass REHECHOS a mano (make_pass_icons.py: crown / die / gear_auto / stopwatch_fast); REEMPLAZAN a los de arriba
+pass_vip v2         rbxassetid://123349627065617   (corona: 3 puntas facetadas + perlas, puntas de atras, aro con rubi/zafiro/esmeralda, brillos)
+pass_jackpot v2     rbxassetid://134550766857958   (dado ARCOIRIS isometrico, puntos 1/2/3, sin cartelito)
+pass_jackpot_x1 v2  rbxassetid://122694773152853
+pass_jackpot_x5 v2  rbxassetid://121212033775029
+pass_jackpot_x10 v2 rbxassetid://74314579460573
+pass_auto           rbxassetid://84265833357621    (engranaje dorado + flecha verde: Auto Conveyor; reemplaza al gear gris en el pass)
+pass_fast           rbxassetid://123056681905992   (cronometro rojo + rayo: Fast Open; reemplaza al tacho up_open en el pass)
+px7_glow            rbxassetid://94404820549335    (halo pixel 32x32 en 4 escalones de opacidad, blanco: make_rays.py; atras del icono en las cartas de la tienda)
+
+# mapa multijugador 2026-10-12 (vfx/make_map_textures.py, ServerStorage.WorldBuilder.TEX)
+chevron.png      rbxassetid://136442172800333   flecha de la cinta del centro (Texture Top, la corre ZoneClient)
+grid_checker.png rbxassetid://124057258072019   tablero suave del piso (Ground.Grid, StudsPerTile 16)
+zone_wall.png    rbxassetid://140490569315389   pared de luz de las zonas (Decal tenido)
+zone_sparks.png  rbxassetid://82322215888309    chispitas que suben por las paredes de las zonas
+zone_ring.png    rbxassetid://76999079827516    circulo de las zonas (Decal Top tenido, gira y aparece de cerca: ZoneClient)
+
+# 2026-10-12 TRADE + MOCHILA (make_trade_icons.py -> outlined/)
+pass_trade       rbxassetid://89800173439615   (dos flechas que se cruzan verde/naranja, borde negro SOLO por afuera; Art = 32; Config.Icons.Trade)
+topbar_backpack  rbxassetid://96539835056140   (mochila blanca de linea 256x256 lisa, como los iconos de la barra de Roblox; boton de la mochila)
